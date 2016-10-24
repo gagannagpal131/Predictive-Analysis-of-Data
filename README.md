@@ -5,4 +5,3 @@ I have done predictive analysis of a sample dataset "attitude".I have divided th
 
 All these things have been encapsulated in a menu driven programme.Graphs showing the actual vs predicted data has been shown in each technique.
 
-I Have also included the whole project report that I have submitted along with the project.
